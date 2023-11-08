@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Story_reader_Project1", "Story_reader_Project1\Story_reader_Project1.pyproj", "{B10F54BE-9A08-4E5A-B590-847FA9DFE167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10F54BE-9A08-4E5A-B590-847FA9DFE167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10F54BE-9A08-4E5A-B590-847FA9DFE167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10F54BE-9A08-4E5A-B590-847FA9DFE167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10F54BE-9A08-4E5A-B590-847FA9DFE167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A36BCF0-1277-4AC0-8276-3952BE850BBF}
+	EndGlobalSection
+EndGlobal
